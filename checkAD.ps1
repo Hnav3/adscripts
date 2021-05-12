@@ -37,7 +37,7 @@
 .EXAMPLE
     Run checkAD.ps1 to list members of a group.
     checkAD.ps1 -type group -value Developers-Group
-
+    This isn't done yet.
 #>
 
 [CmdletBinding()]
